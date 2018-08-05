@@ -6,6 +6,12 @@ Core
 
 1. Platformer
     - Up, Down, Left, Right
+    - Layers
+        > Layers are a Z state for rest of the 2D enviroment to interact with.
+        >
+        > Objects can span multiple layers
+        >
+        > If an object goes outside of the set layer, checking happens at the nearest layer, but do not move the object back in.
 2. Movement Options
     - Analog Left/Right
     - Analog Jump based on time held
@@ -34,6 +40,7 @@ Core
     - Winch
 7. World
     - Size
+    - Layers
     - Gravity
     - Lighting
     - Fog
