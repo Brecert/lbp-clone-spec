@@ -56,8 +56,12 @@ Sharing
 Levels you make can be shared to your hub.
 
 The hub is an area for all your levels to be displayed.
+
 There are four options for the hub.
+
 1. Planets (each planet is a level)
 2. Planet (the planet contains all of the levels)
 3. 2Dish Area (a 2Dish sculptable area of space)
 4. Level (a level that a user submits as their hub)
+
+
